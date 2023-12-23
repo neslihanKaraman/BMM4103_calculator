@@ -1,2 +1,2 @@
-# bmm4103_calculator
+# calculator
 Mobile programming calculator project
